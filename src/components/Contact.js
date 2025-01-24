@@ -20,7 +20,7 @@ const Contact = () => {
             <FaPhone className="contact-icon" />
             <div className="contact-detail">
               <h3>Phone</h3>
-              <a href="tel:+919345300628">+91 93453006280</a>
+              <a href="tel:+919345300628">+91 9345306280</a>
             </div>
           </div>
           
